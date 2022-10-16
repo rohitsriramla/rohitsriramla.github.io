@@ -24,9 +24,9 @@ background-image: linear-gradient(to right,  white, orange, rgb(0, 0, 0));
 }
   .bot{
     width: 800px;
-    bottom: -15px;
-     
-    position: absolute;
+    bottom: 20px;
+    
+    position: relative;
     border-bottom: none;
     border-top: 2px solid rgb(0, 0, 0);
     box-shadow: none;
