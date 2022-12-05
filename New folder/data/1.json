@@ -1,0 +1,21 @@
+[
+    {
+        "name": "S7NER #1",
+        "image ": "QmWXGwFKN7C1Uco6teN2tcxchj7XhGzQQjEc1kASYqmnjR" ,
+            " attributes ":	[
+        {
+        "trait_type ": "Background" ,
+        "value ": "Gluttony Fruit"
+        } ,
+        {
+        "trait_type ": "Offhand" ,
+        "value ": "Sake"
+        } , 
+        {
+        "trait_type ": "Position " ,
+        "value ": "Left"
+        }
+        ]
+        }
+]
+
